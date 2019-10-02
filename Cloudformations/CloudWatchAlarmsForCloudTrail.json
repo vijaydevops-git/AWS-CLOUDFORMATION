@@ -4,8 +4,8 @@
   "Parameters" : {
       "LogGroupName" : {
           "Type" : "String",
-          "Default" : "CloudTrail/DefaultLogGroup",
-          "Description" : "Enter CloudWatch Logs log group name. Default is CloudTrail/DefaultLogGroup"
+          "Default" : "SecurityCloudTrail",
+          "Description" : "Enter CloudWatch Logs log group name. Default is SecurityCloudTrail"
       },
       "Email" : {
           "Type" : "String",
